@@ -2,4 +2,4 @@ some new file, with new data
 fine.
 
 bla bla bla. done.
-
+Important bug was fixed!
